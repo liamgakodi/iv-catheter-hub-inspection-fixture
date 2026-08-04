@@ -1,3 +1,9 @@
+# IV Catheter Hub Inspection Fixture
+
+A go/no-go inspection fixture designed to verify IV catheter hub diameters against 
+ISO 594-1 Luer taper tolerances — includes full GD&T drawings, a PFMEA, and a working 
+SolidWorks assembly.
+
 ## PFMEA (Process Failure Mode and Effects Analysis)
 
 | Failure Mode | Effect | Cause | Control |
